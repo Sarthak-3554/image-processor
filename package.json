@@ -1,5 +1,5 @@
 {
-    "name": "image-processor",
+    "name": "custom-image-processor",
     "version": "1.0.0",
     "description": "A JavaScript library for image processing including cropping, resizing, and format conversion.",
     "main": "index.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Sarthak-3554/image-processor.git"
+      "url": "git+https://github.com/Sarthak-3554/custom-image-processor.git"
     },
     "keywords": [
       "image",
@@ -26,6 +26,6 @@
     "bugs": {
       "url": "https://github.com/Sarthak-3554/image-processor/issues"
     },
-    "homepage": "https://github.com/Sarthak-3554/image-processor#readme"
+    "homepage": "https://github.com/Sarthak-3554/custom-image-processor#readme"
   }
   
