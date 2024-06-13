@@ -1,0 +1,31 @@
+{
+    "name": "image-processor",
+    "version": "1.0.0",
+    "description": "A JavaScript library for image processing including cropping, resizing, and format conversion.",
+    "main": "index.js",
+    "dependencies": {
+      "heic2any": "^0.5.6"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Sarthak-3554/image-processor.git"
+    },
+    "keywords": [
+      "image",
+      "processing",
+      "cropping",
+      "resizing",
+      "format conversion"
+    ],
+    "author": "Sarthak Dumbre",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Sarthak-3554/image-processor/issues"
+    },
+    "homepage": "https://github.com/Sarthak-3554/image-processor#readme"
+  }
+  
