@@ -4,7 +4,7 @@
     "description": "A JavaScript library for image processing including cropping, resizing, and format conversion.",
     "main": "index.js",
     "dependencies": {
-      "heic2any": "^0.5.6"
+      
     },
     "devDependencies": {},
     "scripts": {
