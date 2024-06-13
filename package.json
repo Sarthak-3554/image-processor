@@ -1,6 +1,6 @@
 {
     "name": "custom-image-processor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A JavaScript library for image processing including cropping, resizing, and format conversion.",
     "main": "index.js",
     "dependencies": {
