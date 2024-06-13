@@ -5,4 +5,4 @@ A JavaScript library for image processing including cropping, resizing, and form
 ## Installation
 
 ```bash
-npm install image-processor
+npm install custom-image-processor
